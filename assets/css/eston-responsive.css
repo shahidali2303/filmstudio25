@@ -1410,7 +1410,8 @@
 @media only screen and (max-width: 767px) {
   .main-slider__shape-1,
   .main-slider__shape-2,
-  .main-slider__shape-3 {
+  .main-slider__shape-3,
+  .main-slider__social-box {
     display: none;
   }
 

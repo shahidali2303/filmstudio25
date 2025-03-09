@@ -1911,7 +1911,7 @@ ul {
 .main-slider__sub-title {
   position: relative;
   display: inline-block;
-  font-size: 24px;
+  font-size: 40px;
   line-height: 50px;
   font-weight: 500;
   color: var(--eston-white);
