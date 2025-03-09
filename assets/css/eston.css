@@ -1911,9 +1911,9 @@ ul {
 .main-slider__sub-title {
   position: relative;
   display: inline-block;
-  font-size: 16px;
-  line-height: 16px;
-  font-weight: 400;
+  font-size: 36px;
+  line-height: 50px;
+  font-weight: 500;
   color: var(--eston-white);
   font-family: var(--eston-font-two);
   font-style: italic;
@@ -1932,13 +1932,13 @@ ul {
 
 .main-slider__title {
   position: relative;
-  font-size: 70px;
+  font-size: 60px;
   color: var(--eston-white);
   font-weight: 700;
   line-height: 80px;
   letter-spacing: -0.02em;
   margin-top: 17px;
-  margin-bottom: 60px;
+  margin-bottom: 17px;
   opacity: 0;
   visibility: hidden;
   -webkit-transform: translateY(-120px);
