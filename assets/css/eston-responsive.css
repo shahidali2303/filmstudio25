@@ -1424,7 +1424,11 @@
   }
 
   .main-slider__title {
-    font-size: 40px;
+    font-size: 60px;
+    line-height: 60px;
+  }
+  .main-slider__sub-title {
+    font-size: 35px;
     line-height: 50px;
   }
 
